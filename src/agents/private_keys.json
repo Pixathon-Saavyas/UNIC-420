@@ -1,0 +1,10 @@
+{
+    "agent1": {
+        "identity_key": "b4180ec40b50773302373d5a73da93b354f6c0c221424610b8c6ec15f3f979fe",
+        "wallet_key": "1IudADrZuJ2M77J0Sirlp+EUmpxB95cuM2Ti43Map+0="
+    },
+    "agent2": {
+        "identity_key": "3b8cc4a078a972d13e28ebd9932e0600991b026851f1d624fa3d51d8407cfde7",
+        "wallet_key": "XotLH9+qlmAsKX8cEuPhBRKdRqLJCezhkO/vBdDfR/s="
+    }
+}

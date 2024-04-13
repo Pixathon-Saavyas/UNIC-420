@@ -1,0 +1,14 @@
+{
+    "agent": {
+        "identity_key": "417b04b329981a4c4b6641fba7c7866b0cf2c6f4266c956d31a1387d7cb09cfb",
+        "wallet_key": "jBA3cZ4Njy/Yg90sxeawn0zROscD10rB+uf57B1ARVI="
+    },
+    "agent1": {
+        "identity_key": "9888765c5fca0fcd76de58acc140a9551623b048b2cdf06fd17c23234716764e",
+        "wallet_key": "NMKyVDPJwuDaEvhHAgeGVwptbjMEL1gq1YomiqtHwww="
+    },
+    "agent2": {
+        "identity_key": "34de9c08fc0e98fb580d6f0c7454ac04083977512162a28bbab3601127a861c0",
+        "wallet_key": "xZAdwmJlsB6ynWJqrsqGJ9n/bUP+pLw2wzJj9jXg8gQ="
+    }
+}
