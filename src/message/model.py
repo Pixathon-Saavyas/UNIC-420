@@ -1,8 +1,10 @@
-# import required libraries
+#  import required libraries
 from uagents import Model
-# taking request as sports name
+from pydantic import Field
 class Message(Model):
     message : str
-# getting response as live scores
 class Response(Model):
     response : str
+
+class Movie(Model):
+    title : str = Field(description="Enter the movie name")
