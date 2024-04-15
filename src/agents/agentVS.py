@@ -1,4 +1,4 @@
-# agent2  
+#this code works in vs code
 import requests
 from uagents import Agent, Context, Model
 
